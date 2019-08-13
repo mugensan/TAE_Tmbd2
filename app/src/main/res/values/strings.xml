@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TAE_Tmbd2</string>
+    <string name="name">name</string>
+    <string name="owner">owner</string>
+    <string name="id">id</string>
+    <string name="title">title</string>
+    <string name="ratings">ratings</string>
+    <string name="overview">overview</string>
+</resources>
